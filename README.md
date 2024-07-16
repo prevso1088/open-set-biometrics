@@ -1,1 +1,3 @@
-# open-set-biometrics
+# Open-Set Biometrics: Beyond Good Closed-Set Models
+
+Coming soon. Stay tuned...
